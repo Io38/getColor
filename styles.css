@@ -1,0 +1,23 @@
+#color{
+height:100px;
+width:500px;
+background-color:rgb(0,0,0);
+}
+.rgb {
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 5px;
+    /* letter-spacing: 1px; */
+}
+
+.HEX{
+  font-size: 18px;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 5px;  
+}
+.one{
+  border-radius: 2px;
+  border-width: 2px;
+}
